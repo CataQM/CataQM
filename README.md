@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CataQM
 - 👀 I’m interested in Data science, AI and all about maths 
-- 🌱 I’m currently learning mathematics in a university
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Mathematician in constantly learning
+- 💞️ I’m looking to collaborate on data analysis and LLM's analysis
 - 📫 How to reach me catalina.quincosis@gmail.com
 
 <!---
